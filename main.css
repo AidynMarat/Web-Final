@@ -1,0 +1,110 @@
+body{
+    background: url(https://us.123rf.com/450wm/helenlane/helenlane1610/helenlane161000740/63602447-asian-japanese-tradition-seamless-pattern-in-red-colors-u043e-u0442-black-background.jpg?ver=6);
+    
+}
+body{ 
+    font-family: Arial, Helvetica, sans-serif; 
+    width: 100%; 
+    font-size: 16px; 
+  } 
+/* https://www.hdwallpapers.in/download/japanese_desktop_garden_hd_japanese-HD.jpg
+   https://assets.wfcdn.com/im/14259812/compr-r85/1178/117859092/fabric.jpg
+   https://www.freevector.com/uploads/vector/preview/28772/Red_Japanese_Wave_Seamless_Pattern.jpg
+   https://us.123rf.com/450wm/helenlane/helenlane1610/helenlane161000740/63602447-asian-japanese-tradition-seamless-pattern-in-red-colors-u043e-u0442-black-background.jpg?ver=6
+*/
+.mfont{
+    font-size: 100px;
+    color: white;
+}
+.centered-carousel{
+    display: flex;
+    height: 100vh;
+}
+.imagec{
+    max-height: 500px;
+    width: 900px;
+    border-radius: 30px;
+}
+.good{
+    display: inline-block;
+    height: 400px;
+}
+.navb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+.button{
+    background-color: white;
+    margin-right: 100px;
+    width: 130px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+.cdiv{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.main{
+    background: url(https://www.hdwallpapers.in/download/japanese_desktop_garden_hd_japanese-HD.jpg);
+    background-repeat: no-repeat;
+}
+.d-flex {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 50px;
+}
+.hello {
+    width: 420px; 
+     
+}
+.rounded-image {
+    border-radius: 25px;
+    padding-left: 30px;
+    margin-right: 10px;
+}
+
+.box d-flex{ 
+    box-sizing:border-box; 
+    margin: 0; 
+    padding: 0; 
+}
+.img1{ 
+    padding: 10px; 
+    margin: 20px; 
+    border-radius:30px; 
+  } 
+  .contact-container {
+    display: inline-block;
+    background-color: rgb(134, 5, 5);
+    padding: 20px;
+    top: -20px;
+}
+
+.line {
+  background-color: rgb(134, 5, 5);
+}
+.contact-info {
+    color: rgb(46, 10, 10);
+    margin-bottom: 10px;
+}
+.menu_b{
+    width: 420px;
+    border-radius: 30px;
+}
+.samurai{
+    display: flex; 
+    justify-content: center; 
+    padding: 30px;
+}
